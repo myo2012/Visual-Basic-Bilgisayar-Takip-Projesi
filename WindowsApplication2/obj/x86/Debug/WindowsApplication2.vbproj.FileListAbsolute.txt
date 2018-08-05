@@ -1,0 +1,14 @@
+c:\users\faruk\documents\visual studio 2010\Projects\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.exe
+c:\users\faruk\documents\visual studio 2010\Projects\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.pdb
+c:\users\faruk\documents\visual studio 2010\Projects\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.xml
+c:\users\faruk\documents\visual studio 2010\Projects\WindowsApplication2\WindowsApplication2\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\faruk\documents\visual studio 2010\Projects\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.Form1.resources
+c:\users\faruk\documents\visual studio 2010\Projects\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.Resources.resources
+c:\users\faruk\documents\visual studio 2010\Projects\WindowsApplication2\WindowsApplication2\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\faruk\documents\visual studio 2010\Projects\WindowsApplication2\WindowsApplication2\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\faruk\documents\visual studio 2010\Projects\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.exe
+c:\users\faruk\documents\visual studio 2010\Projects\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.xml
+c:\users\faruk\documents\visual studio 2010\Projects\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.pdb
+C:\Users\Faruk\Documents\Visual Studio 2010\Projects\BilgisayarTakipProje\WindowsApplication2\obj\x86\Debug\WindowsApplication2.exe
+C:\Users\Faruk\Documents\Visual Studio 2010\Projects\BilgisayarTakipProje\WindowsApplication2\obj\x86\Debug\WindowsApplication2.xml
+C:\Users\Faruk\Documents\Visual Studio 2010\Projects\BilgisayarTakipProje\WindowsApplication2\obj\x86\Debug\WindowsApplication2.pdb

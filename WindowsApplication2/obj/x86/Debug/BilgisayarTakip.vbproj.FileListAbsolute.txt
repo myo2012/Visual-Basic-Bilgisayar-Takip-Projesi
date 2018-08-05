@@ -1,0 +1,39 @@
+C:\Users\Faruk\Documents\Visual Studio 2010\Projects\BilgisayarTakipProje\WindowsApplication2\bin\Debug\WindowsApplication2.exe
+C:\Users\Faruk\Documents\Visual Studio 2010\Projects\BilgisayarTakipProje\WindowsApplication2\bin\Debug\WindowsApplication2.pdb
+C:\Users\Faruk\Documents\Visual Studio 2010\Projects\BilgisayarTakipProje\WindowsApplication2\bin\Debug\WindowsApplication2.xml
+C:\Users\Faruk\Documents\Visual Studio 2010\Projects\BilgisayarTakipProje\WindowsApplication2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Faruk\Documents\Visual Studio 2010\Projects\BilgisayarTakipProje\WindowsApplication2\obj\x86\Debug\WindowsApplication2.AnaMenu.resources
+C:\Users\Faruk\Documents\Visual Studio 2010\Projects\BilgisayarTakipProje\WindowsApplication2\obj\x86\Debug\WindowsApplication2.Resources.resources
+C:\Users\Faruk\Documents\Visual Studio 2010\Projects\BilgisayarTakipProje\WindowsApplication2\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Faruk\Documents\Visual Studio 2010\Projects\BilgisayarTakipProje\WindowsApplication2\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Faruk\Documents\Visual Studio 2010\Projects\BilgisayarTakipProje\WindowsApplication2\obj\x86\Debug\WindowsApplication2.exe
+C:\Users\Faruk\Documents\Visual Studio 2010\Projects\BilgisayarTakipProje\WindowsApplication2\obj\x86\Debug\WindowsApplication2.xml
+C:\Users\Faruk\Documents\Visual Studio 2010\Projects\BilgisayarTakipProje\WindowsApplication2\obj\x86\Debug\WindowsApplication2.pdb
+C:\Users\Faruk\Desktop\BilgisayarTakipProje\WindowsApplication2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Faruk\Desktop\BilgisayarTakipProje\WindowsApplication2\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Faruk\Desktop\BilgisayarTakipProje\WindowsApplication2\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\faruk\Desktop\BilgisayarTakipProje\WindowsApplication2\bin\Debug\Pasper.exe
+C:\Users\faruk\Desktop\BilgisayarTakipProje\WindowsApplication2\bin\Debug\Pasper.pdb
+C:\Users\faruk\Desktop\BilgisayarTakipProje\WindowsApplication2\bin\Debug\Pasper.xml
+C:\Users\faruk\Desktop\BilgisayarTakipProje\WindowsApplication2\obj\x86\Debug\Pasper.AnaMenu.resources
+C:\Users\faruk\Desktop\BilgisayarTakipProje\WindowsApplication2\obj\x86\Debug\Pasper.Resources.resources
+C:\Users\faruk\Desktop\BilgisayarTakipProje\WindowsApplication2\obj\x86\Debug\Pasper.exe
+C:\Users\faruk\Desktop\BilgisayarTakipProje\WindowsApplication2\obj\x86\Debug\Pasper.xml
+C:\Users\faruk\Desktop\BilgisayarTakipProje\WindowsApplication2\obj\x86\Debug\Pasper.pdb
+C:\Users\faruk\Desktop\FORMAT DOSYALAR\BilgisayarTakipProje\WindowsApplication2\obj\x86\Debug\Pasper.exe
+C:\Users\faruk\Desktop\FORMAT DOSYALAR\BilgisayarTakipProje\WindowsApplication2\obj\x86\Debug\Pasper.xml
+C:\Users\faruk\Desktop\FORMAT DOSYALAR\BilgisayarTakipProje\WindowsApplication2\obj\x86\Debug\Pasper.pdb
+D:\FORMAT DOSYALAR yedinci ay 2013\BilgisayarTakipProje\WindowsApplication2\obj\x86\Debug\Pasper.exe
+D:\FORMAT DOSYALAR yedinci ay 2013\BilgisayarTakipProje\WindowsApplication2\obj\x86\Debug\Pasper.xml
+D:\FORMAT DOSYALAR yedinci ay 2013\BilgisayarTakipProje\WindowsApplication2\obj\x86\Debug\Pasper.pdb
+D:\FORMAT DOSYALAR yedinci ay 2013\BilgisayarTakipProje\WindowsApplication2\bin\Debug\Pasper.exe
+D:\FORMAT DOSYALAR yedinci ay 2013\BilgisayarTakipProje\WindowsApplication2\bin\Debug\Pasper.pdb
+D:\FORMAT DOSYALAR yedinci ay 2013\BilgisayarTakipProje\WindowsApplication2\bin\Debug\Pasper.xml
+D:\FORMAT DOSYALAR yedinci ay 2013\BilgisayarTakipProje\WindowsApplication2\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\FORMAT DOSYALAR yedinci ay 2013\BilgisayarTakipProje\WindowsApplication2\obj\x86\Debug\Pasper.AnaMenu.resources
+D:\FORMAT DOSYALAR yedinci ay 2013\BilgisayarTakipProje\WindowsApplication2\obj\x86\Debug\Pasper.Resources.resources
+D:\FORMAT DOSYALAR yedinci ay 2013\BilgisayarTakipProje\WindowsApplication2\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\FORMAT DOSYALAR yedinci ay 2013\BilgisayarTakipProje\WindowsApplication2\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\@@@FARUK_Y\Okul_Myo\BilgisayarTakipProje\WindowsApplication2\obj\x86\Debug\Pasper.exe
+D:\@@@FARUK_Y\Okul_Myo\BilgisayarTakipProje\WindowsApplication2\obj\x86\Debug\Pasper.xml
+D:\@@@FARUK_Y\Okul_Myo\BilgisayarTakipProje\WindowsApplication2\obj\x86\Debug\Pasper.pdb
